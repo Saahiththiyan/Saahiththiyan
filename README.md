@@ -3,7 +3,7 @@
 ### Hi there 👋 Im Saahi and I ❤️ Coding
 
 
-- 🔭 I’m currently working on Torgo a tour management saas application build with vue.js and node.js
+- 🔭 I’m currently working on Torgo a tour management saas application built with vue.js and node.js
 - 🌱 I’m currently learning Adonisjs, Vuejs and AWS
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Vuejs
