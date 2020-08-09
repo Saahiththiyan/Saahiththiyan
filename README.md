@@ -1,12 +1,11 @@
-### Hi there 👋
 
-Here are some ideas to get you started:
+![Twitter: saahimathi](https://img.shields.io/twitter/follow/saahimathi?style=social)
+### Hi there 👋 Im Saahi and I ❤️ Coding
 
-- 🔭 I’m currently working on Torgo
-- 🌱 I’m currently learning Adonisjs and Vuejs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Torgo
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🔭 I’m currently working on Torgo a tour management saas application build with vue.js and node.js
+- 🌱 I’m currently learning Adonisjs, Vuejs and AWS
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about Vuejs
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a self taught developer 😉
