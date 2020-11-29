@@ -3,9 +3,9 @@
 
 [saahiththiyan.github.io](https://saahiththiyan.github.io/)
 
+<img alt="GIF" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif" />
+
  <h1> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Hi there 👋 Im Saahi and I ❤️ Coding </h1>
-
-
 
 - 🔭 I’m currently working on Torgo a tour management saas application built with vue.js and node.js
 - 🌱 I’m currently learning Adonisjs, Vuejs and AWS
