@@ -3,7 +3,8 @@
 
 [saahiththiyan.github.io](https://saahiththiyan.github.io/)
 
-### Hi there 👋 Im Saahi and I ❤️ Coding
+<img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> <h1>Hi there 👋 Im Saahi and I ❤️ Coding </h1>
+
 
 
 - 🔭 I’m currently working on Torgo a tour management saas application built with vue.js and node.js
@@ -22,3 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+[![Saahi's github stats](https://github-readme-stats.vercel.app/api?username=Saahiththiyan)](https://github.com/anuraghazra/github-readme-stats)
