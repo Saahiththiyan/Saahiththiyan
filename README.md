@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Adonisjs, Vuejs and AWS
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Vuejs
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a self taught developer 😉
 
 **Languages and Tools:**  
